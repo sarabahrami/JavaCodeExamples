@@ -33,6 +33,4 @@ public class UniqueCharacters {
 
     }
 
-
-    public static
 }
